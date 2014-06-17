@@ -29,7 +29,7 @@ Add new campaigns with the click of button.
 
 This section describes how to install the plugin and get it working.
 
-1. Search for 8digits on Plugin Install page of WordPress Admin dashboard and follow instructions, or upload `8digits.php` to the `wp-content/plugins/8digits/` directory
+1. Search for 8digits on Plugin Install page of WordPress Admin dashboard and follow instructions, <br>or upload `8digits.php` to the `wp-content/plugins/8digits/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Sign up at [8digits.com](http://beta.8digits.com/) to receive your tracking code.
 4. After generating your tracking code, return 8digits plugin in WordPress and save your tracking code change.
