@@ -1,14 +1,14 @@
-=== 8digits Market Suite ===
+=== 8digits Marketing Suite ===
 Contributors: 8digits
 Donate link: http://www.8digits.com
-Tags: e-commerce, marketing, upsell,  conversion optimization, pop-ups, hellobar
+Tags: e-commerce, marketing, upsell, conversion optimization, pop-ups, hellobar, 8digits
 Requires at least: 3.8
 Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The 8digits Market Suite, WooCommerce managers can convert and upsell visitors to generate growth easily and efficiently.
+With The 8digits Marketing Suite, WooCommerce managers can convert and upsell visitors to generate growth easily and efficiently.
 
 == Description ==
 
@@ -22,7 +22,7 @@ Add new campaigns with the click of button.
 
 = Learn More =
 
-* **[Discover all features at  (http://www.8digits.com/)
+* Discover all features at [8digits.com](http://beta.8digits.com/)
 * Follow us on Twitter [@8digits](https://twitter.com/8digits/)
 
 == Installation ==
@@ -31,7 +31,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload `8digits.php` to the `wp-content/plugins/8digits/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Sign up `www.8digits.com` to receive your tracking code.
+3. Sign up at [8digits.com](http://beta.8digits.com/) to receive your tracking code.
 4. After generating your tracking code, return 8digits plugin in WordPress and save your tracking code change.
 
 == Frequently Asked Questions ==

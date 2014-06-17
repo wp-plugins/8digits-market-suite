@@ -6,10 +6,10 @@
   /*
   Plugin Name: 8digits
   Plugin URI: http://wordpress.org/plugins/8digits/
-  Description: Integration plugin for 8digits.com to integrate your woocommerce store with 8digits easily!
-  Author: Gurkan Oluc
+  Description: Plugin for 8digits.com to integrate your woocommerce store with 8digits easily!
+  Author: 8digits
   Version: 0.3
-  Author URI: http://www.8digits.com/
+  Author URI: http://beta.8digits.com/
   */
 
   if(!defined('ABSPATH')) {
